@@ -1,7 +1,9 @@
 {
   "name": "new",
   "version": "0.1.0",
-  "homepage": "https://TarasStefANYUK1996.github.io/TarasStefANYUK1996.github.io",
+   "repository": "github:TarasStefANYUK1996/demo",
+
+  "homepage": "https://TarasStefANYUK1996.github.io/demo",
   "private": true,
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
